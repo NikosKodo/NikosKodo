@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Nikolaos Kontogiorgis
 
-I am an spiring Data Engineer with experience in Cloud-based Data Engineering, Big Data Processing and Machine Learning. My ambition is to 𝐰𝐨𝐫𝐤 𝐚𝐥𝐨𝐧𝐠𝐬𝐢𝐝𝐞 𝐝𝐚𝐭𝐚 𝐭𝐞𝐚𝐦𝐬 to help organizations optimize their data ingestion, management and processing by implementing scalable ETL pipelines, employing cloud computing and utilizing machine learning solutions for 𝐛𝐞𝐭𝐭𝐞𝐫 𝐞𝐟𝐟𝐢𝐜𝐢𝐞𝐧𝐜𝐲 𝐚𝐧𝐝 𝐜𝐨𝐧𝐭𝐢𝐧𝐮𝐨𝐮𝐬 𝐢𝐧𝐧𝐨𝐯𝐚𝐭𝐢𝐨𝐧.
+Aspiring Engineer with experience in data and cloud engineering, software testing and development. I enjoy 𝐰𝐨𝐫𝐤𝐢𝐧𝐠 𝐚𝐥𝐨𝐧𝐠𝐬𝐢𝐝𝐞 𝐭𝐞𝐚𝐦𝐬 to help organizations enhance system reliability and implement scalable solutions for 𝐛𝐞𝐭𝐭𝐞𝐫 𝐞𝐟𝐟𝐢𝐜𝐢𝐞𝐧𝐜𝐲 𝐚𝐧𝐝 𝐜𝐨𝐧𝐭𝐢𝐧𝐮𝐨𝐮𝐬 𝐢𝐧𝐧𝐨𝐯𝐚𝐭𝐢𝐨𝐧.
 
 𝐌𝐲 𝐇𝐢𝐠𝐡𝐥𝐢𝐠𝐡𝐭𝐬
 
